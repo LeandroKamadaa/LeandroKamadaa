@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java<br>🎲 Fun fact: I'm also a games enthusiast and a cat lover 🐱</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Javascript<br>🎲 Fun fact: I'm also a games enthusiast and a cat lover 🐱</p>
 
 ###
 
